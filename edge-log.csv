@@ -27,3 +27,4 @@ date,league,match,kickoff_hkt,market_line,selection,odds,stake_u,model_prob,fair
 2026-10-23,Cup/Other,Coventry vs Fulham,,AH,PASS,,0,,,,HKJC,,0,,非主戰／唔硬拆｜Poisson v0.2｜馬會 2026-10-23 12:02
 2026-10-23,Cup/Other,Hull vs Brentford,,AH,PASS,,0,,,,HKJC,,0,,非主戰／唔硬拆｜Poisson v0.2｜馬會 2026-10-23 12:02
 2026-10-23,EPL,Ipswich vs Nottingham Forest,2026-10-24 03:00,AH Forest -0.25,"PASS (Forest -0.25 candidate, unconfirmed)",~1.85-1.90,0,,,+6 to +8% paper,HKJC,Pass (FT 1-1; AH shadow: Forest -0.25 half-L),0,,"Poisson v0.2 candidate 0.5u never confirmed → Pass. FT Ipswich 1-1 Forest (Williams 13, Enciso 41). Shadow Forest -0.25 on draw = half-lose. No CLV close."
+2026-10-24,EPL,Aston Villa vs Manchester City,2026-10-24 19:30,AH Villa +1 (was +0.5/+1),PASS (Villa +1),1.78,0,,,paper +EV but water gate,HKJC,,0,,正選後 λ1.22/1.65（Haaland XI; Foden bench; Manzambi start）。候選原 +0.5/+1 紙面+8.5~+14%；馬會現價線變 Villa +1@1.78（FB7467 18:32）水<1.85硬閘 → Pass。Shadow: Villa +1 待賽後。
